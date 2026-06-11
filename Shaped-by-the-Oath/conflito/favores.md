@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Sociais
-parent: Favores
+title: Favores
+parent: Conflitos
 nav_order: 2
 ---
 

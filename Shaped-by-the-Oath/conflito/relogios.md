@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Combate
-parent: Favores
+title: Relógios
+parent: Conflitos
 nav_order: 4
 ---
 

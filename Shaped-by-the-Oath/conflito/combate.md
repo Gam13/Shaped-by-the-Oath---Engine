@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Combate
-parent: Favores
+parent: Conflitos
 nav_order: 3
 ---
 
