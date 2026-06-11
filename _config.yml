@@ -7,9 +7,10 @@ description: >-
 url: "https://Gam13.github.io"
 baseurl: "/Shaped-by-the-Oath---Engine"
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Navegação
