@@ -1,55 +1,28 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Shaped by the Oath
-email:  # Your email address, which will be visible on your site. It is also used in
-  # the RSS feed as the author of the posts, so it is recommended to set it.
-description: >- # this means to ignore newlines until "baseurl:"
-  Uma documentação de RPG de mesa, focada em criar um ambiente de terror pessoal e expresividade de personagens. 
-  O sistema é baseado em mecânicas de dados, mas com uma abordagem mais narrativa.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Gammus
-github_username:  Gam13
 
-# Build settings
+description: >-
+  Sistema de RPG de horror pessoal ambientado em um cenário noir-punk,
+  focado em expressão de personagens, consequências narrativas e investigação.
+
+url: "https://Gam13.github.io"
+baseurl: "/Shaped-by-the-Oath---Engine"
+
 theme: just-the-docs
+
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Navegação
+search_enabled: true
+
+# Rodapé
+footer_content: "Shaped by the Oath"
+
+# GitHub
+github_username: Gam13
+
+# Aparência
+color_scheme: dark
+
+# Permalinks amigáveis
+permalink: pretty
