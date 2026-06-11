@@ -53,7 +53,7 @@ A Defesa Instintiva representa **respostas automáticas**, reflexos básicos e i
 A Defesa Ativa representa **planejamento e calma**, confiança e estratégia.
 A calma exige um esforço mental e concentração.
 
-> 	Personagens que se expõem demais correm riscos: a defesa instintiva é menos confiável e não se repete sem custo.
+ 	Personagens que se expõem demais correm riscos: a defesa instintiva é menos confiável e não se repete sem custo.
 
  - **Proteger:**  
     Remove sucessos direcionados a outro personagem.  
