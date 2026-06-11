@@ -22,6 +22,7 @@ Bem-vindo à documentação oficial do sistema.
 - [Grandes Feitos]({{ '/criacao/feitos/' | relative_url }})
 - [Marcas]({{ '/criacao/marcas/' | relative_url }})
 - [Reputação]({{ '/criacao/reputacao/' | relative_url }})
+- [Recursos]({{ '/criacao/recursos/' | relative_url }})
 
 ### Conflitos
 - [Sociais]({{ '/conflito/social/' | relative_url }})
