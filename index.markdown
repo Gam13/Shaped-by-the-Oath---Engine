@@ -4,25 +4,30 @@ layout: home
 
 # Arquivos da Cidade
 
-
 Bem-vindo à documentação oficial do sistema.
 
 ## Sistema
 
-- [Criação Rápida de Personagem]({% link quick.md %})
+- [Criação Rápida de Personagem]({{ '/quick/' | relative_url }})
 
 ### Mecânicas
-- [Testes]({% link mecanicas/testes.md %})
-- [Dados Volateis e Desespero]({% link mecanicas/volatil.md %})
-- [Criticos]({% link mecanicas/critico.md %})
+- [Testes]({{ '/mecanicas/testes/' | relative_url }})
+- [Dados Volateis e Desespero]({{ '/mecanicas/volatil/' | relative_url }})
+- [Criticos]({{ '/mecanicas/critico/' | relative_url }})
 
 ### Personagens
-- [Características]({% link criacao/caracteristicas.md %})
-- [Integridade e Stress]({% link criacao/integridadeStress.md %})
-- [Reduzindo Stress]({% link criacao/reduzindoStress.md %})
-- [Grandes Feitos]({% link criacao/feitos.md %})
-- [Marcas]({% link criacao/marcas.md %})
-- [Reputação]({% link criacao/reputacao.md %})
+- [Características]({{ '/criacao/caracteristicas/' | relative_url }})
+- [Integridade e Stress]({{ '/criacao/integridadeStress/' | relative_url }})
+- [Reduzindo Stress]({{ '/criacao/reduzindoStress/' | relative_url }})
+- [Grandes Feitos]({{ '/criacao/feitos/' | relative_url }})
+- [Marcas]({{ '/criacao/marcas/' | relative_url }})
+- [Reputação]({{ '/criacao/reputacao/' | relative_url }})
+
+### Conflitos
+- [Sociais]({{ '/conflito/social/' | relative_url }})
+- [Favores]({{ '/conflito/favores/' | relative_url }})
+- [Combate]({{ '/conflito/combate/' | relative_url }})
+- [Relogios]({{ '/conflito/relogios/' | relative_url }})
 
 ### Conflitos
 - [Sociais]({% link conflito/social.md %})
