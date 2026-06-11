@@ -39,7 +39,7 @@ Escolha:
 | Agilidade      | Movimento e acrobacias         |
 | Precisão       | Tiros e controle fino          |
 | Reflexo        | Reações e defesa               |
-| Suporte        | Medicina e primeiros socorros  |
+| Suporte        | Recursos e primeiros socorros  |
 
 ---
 
